@@ -31,3 +31,20 @@
   - Made use of pre-designed Tailwind CSS components to speed up development while maintaining a high level of customization and consistency throughout the landing page.
 
 ![image](https://github.com/user-attachments/assets/cb3baa14-d7d5-496e-ac15-9f5f851915ae)
+
+### Planet Selling E-Commerce 
+
+This folder contains the code for a responsive static website designed for selling planets, demonstrating my skills in HTML and CSS.
+
+#### Features
+Responsive Design: The website is fully responsive, ensuring a seamless user experience across various devices and screen sizes.
+Navigation Bar: Includes a navigation bar for easy access to different sections of the website.
+Planet Listings: Displays a collection of planets available for purchase, complete with detailed descriptions and images.
+
+#### Skills Demonstrated
+HTML: Structured the content and elements of the website.
+CSS: Applied creative and modern design techniques to style the front end of the website.
+Explore the code to see how I used HTML and CSS to build an engaging and visually appealing website for a unique e-commerce concept.
+
+![image](https://github.com/user-attachments/assets/4bcdb5dd-1cd7-4095-a371-27817c8bf58d)
+
